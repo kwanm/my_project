@@ -13,3 +13,6 @@ Welcome to my research website.
 ## Monty Kwan
 
 ### First year **immunology** student
+
+## Link to my analyses
+* [Teeth growth analysis](teeth.html)
